@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nooblobbys3.aternos.me:39501",
+    "ip": "lizardfish.aternos.host:39501",
     "port": 39501,
     "version": "",
     "try-creative": false
